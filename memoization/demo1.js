@@ -1,5 +1,5 @@
 // Demo 1
-// Factorial of 5:  1 * 2 * 3 * 4 * 5 = 120
+// Factorial of 5: 5 * 4 * 3 * 2 * 1 = 120
 
 function rFact(num)
 {
